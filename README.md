@@ -4,6 +4,7 @@
 - 📫 Reach me at plazaryan12@gmail.com
 - Currently a student at The University of New Hampshire
 - Also working at The Interoperability Lab at UNH as a NVMe test developer and ARM SystemReady Tester
+- I mostly use GitHub for tracking my projects for school (which are private)
 
 <!---
 RyanDPlaza/RyanDPlaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
